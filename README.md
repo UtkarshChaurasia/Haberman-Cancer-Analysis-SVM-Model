@@ -10,3 +10,8 @@ Attribute Information:<br>
 2.Patient’s year of operation (numerical)<br>
 3.Number of positive auxillary nodes detected (numerical)<br>
 4.Survival status (class attribute) 1 = the patient survived  2 = the patient died<br>
+
+
+
+
+
